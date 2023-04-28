@@ -2,15 +2,21 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://fedac.ec/</loc>
-		<lastmod>2023-04-26T16:58:04+00:00</lastmod>
+		<lastmod>2023-04-28T20:11:54+00:00</lastmod>
 		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Goldiepie_a_group_of_aquiculture_workers_smiling_at_the_camera_c50ee2b4-a25c-47e6-bac5-555fb8387d8e-1024x683.png</image:loc>
+			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Goldiepie_a_group_of_aquiculture_workers_smiling_at_the_camera_c50ee2b4-a25c-47e6-bac5-555fb8387d8e-300x200.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Goldiepie_a_panoramic_view_of_a_aquiculture_shrimp_farm_c560922b-2772-40d9-b8f0-b4a0cf3c9a8c-1024x683.png</image:loc>
+			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Goldiepie_a_panoramic_view_of_a_aquiculture_shrimp_farm_c560922b-2772-40d9-b8f0-b4a0cf3c9a8c-768x512.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Goldiepie_a_group_of_aquiculture_workers_working_on_a_regular_d_067f0d5a-9b20-4b9f-9111-5c1d3483822a-1024x683.png</image:loc>
+			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Goldiepie_a_group_of_aquiculture_workers_putting_their_hands_to_626d7eeb-38e9-41c9-a3a3-900731b85913-768x512.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Goldiepie_a_group_of_aquiculture_workers_working_on_a_regular_d_067f0d5a-9b20-4b9f-9111-5c1d3483822a-768x512.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Artboard-1-e1682705554393-150x150.png</image:loc>
 		</image:image>
 	</url>
 	<url>
