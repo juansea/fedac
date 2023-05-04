@@ -2,12 +2,18 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://fedac.ec/</loc>
-		<lastmod>2023-05-04T15:42:47+00:00</lastmod>
+		<lastmod>2023-05-04T17:00:15+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/Imagen-de-WhatsApp-2023-05-03-a-las-14.21.36-768x346.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/Imagen-de-WhatsApp-2023-05-03-a-las-14.42.32-768x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/Imagen-de-WhatsApp-2023-05-03-a-las-14.11.44-150x150.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/Imagen-de-WhatsApp-2023-05-03-a-las-14.10.47-150x150.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Artboard-1-150x150.png</image:loc>
