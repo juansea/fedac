@@ -2,88 +2,46 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://fedac.ec/</loc>
-		<lastmod>2023-04-28T20:11:54+00:00</lastmod>
+		<lastmod>2023-05-04T14:51:58+00:00</lastmod>
 		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Goldiepie_a_group_of_aquiculture_workers_smiling_at_the_camera_c50ee2b4-a25c-47e6-bac5-555fb8387d8e-300x200.png</image:loc>
+			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/Imagen-de-WhatsApp-2023-05-03-a-las-14.21.36-768x346.jpg</image:loc>
 		</image:image>
+		<image:image>
+			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/Imagen-de-WhatsApp-2023-05-03-a-las-14.42.32-768x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Artboard-1-150x150.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fedac.ec/contact/</loc>
+		<lastmod>2023-05-03T20:26:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://fedac.ec/revista/</loc>
+		<lastmod>2023-05-03T20:27:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://fedac.ec/contacto/</loc>
+		<lastmod>2023-05-03T20:45:06+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://fedac.ec/about/</loc>
+		<lastmod>2023-05-03T20:53:34+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Goldiepie_a_panoramic_view_of_a_aquiculture_shrimp_farm_c560922b-2772-40d9-b8f0-b4a0cf3c9a8c-768x512.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Goldiepie_a_group_of_aquiculture_workers_putting_their_hands_to_626d7eeb-38e9-41c9-a3a3-900731b85913-768x512.png</image:loc>
 		</image:image>
-		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Goldiepie_a_group_of_aquiculture_workers_working_on_a_regular_d_067f0d5a-9b20-4b9f-9111-5c1d3483822a-768x512.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Artboard-1-e1682705554393-150x150.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://fedac.ec/about/</loc>
-		<lastmod>2023-04-24T15:31:42+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Nutrition_Consultant_about_img.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Nutrition_Consultant_about_img_2-1024x298.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Nutrition_Consultant_logo.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Nutrition_Consultant_stories_1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Nutrition_Consultant_stories_2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Nutrition_Consultant_stories_3.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Nutrition_Consultant_bg_footer3-1024x374.jpg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://fedac.ec/noticias/</loc>
-		<lastmod>2023-04-24T15:37:08+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Nutrition_Consultant_about_img.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Nutrition_Consultant_about_img_2-1024x298.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Nutrition_Consultant_logo.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Nutrition_Consultant_stories_1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Nutrition_Consultant_stories_2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Nutrition_Consultant_stories_3.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Nutrition_Consultant_bg_footer3-1024x374.jpg</image:loc>
-		</image:image>
+		<lastmod>2023-05-04T15:39:26+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://fedac.ec/afiliacion/</loc>
-		<lastmod>2023-04-26T17:00:32+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Nutrition_Consultant_contact_img_3.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Nutrition_Consultant_contact_img_2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Nutrition_Consultant_contact_img_1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/04/Nutrition_Consultant_logo.svg</image:loc>
-		</image:image>
+		<lastmod>2023-05-04T15:39:38+00:00</lastmod>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
