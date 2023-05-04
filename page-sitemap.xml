@@ -30,10 +30,6 @@
 		<lastmod>2023-05-04T15:39:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://fedac.ec/afiliacion/</loc>
-		<lastmod>2023-05-04T15:39:38+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://fedac.ec/about/</loc>
 		<lastmod>2023-05-04T15:43:47+00:00</lastmod>
 		<image:image>
@@ -77,6 +73,16 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/Imagen-de-WhatsApp-2023-05-03-a-las-14.59.18-768x576.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fedac.ec/afiliacion/</loc>
+		<lastmod>2023-05-04T16:23:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/Imagen-de-WhatsApp-2023-05-03-a-las-14.11.44-150x150.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/Imagen-de-WhatsApp-2023-05-03-a-las-14.10.47-150x150.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
