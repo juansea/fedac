@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://fedac.ec/</loc>
-		<lastmod>2023-05-04T17:00:15+00:00</lastmod>
+		<lastmod>2023-05-05T19:37:10+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/Imagen-de-WhatsApp-2023-05-03-a-las-14.21.36-768x346.jpg</image:loc>
 		</image:image>
@@ -36,40 +36,57 @@
 		<lastmod>2023-05-04T15:39:26+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://fedac.ec/afiliacion/</loc>
+		<lastmod>2023-05-04T16:23:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/Imagen-de-WhatsApp-2023-05-03-a-las-14.11.44-150x150.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/Imagen-de-WhatsApp-2023-05-03-a-las-14.10.47-150x150.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fedac.ec/fedac-app/</loc>
+		<lastmod>2023-05-05T19:35:58+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://fedac.ec/about/</loc>
-		<lastmod>2023-05-04T15:43:47+00:00</lastmod>
+		<lastmod>2023-05-05T22:05:55+00:00</lastmod>
 		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/1logos-150x150.png</image:loc>
+			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/LOGO-VERTICAL-150x150.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/12logos-150x150.png</image:loc>
+			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/1logos.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/11logos-150x150.png</image:loc>
+			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/12logos.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/10logos-150x150.png</image:loc>
+			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/11logos.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/9logos-150x150.png</image:loc>
+			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/10logos.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/8logos-150x150.png</image:loc>
+			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/9logos.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/6logos-150x150.png</image:loc>
+			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/8logos.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/5logos-150x150.png</image:loc>
+			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/6logos.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/4logos-150x150.png</image:loc>
+			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/5logos.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/3logos-150x150.png</image:loc>
+			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/4logos.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/2logos-150x150.png</image:loc>
+			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/3logos.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/2logos.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/Imagen-de-WhatsApp-2023-05-03-a-las-14.21.36-768x346.jpg</image:loc>
@@ -79,16 +96,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/Imagen-de-WhatsApp-2023-05-03-a-las-14.59.18-768x576.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://fedac.ec/afiliacion/</loc>
-		<lastmod>2023-05-04T16:23:04+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/Imagen-de-WhatsApp-2023-05-03-a-las-14.11.44-150x150.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://fedac.ec/wp-content/uploads/2023/05/Imagen-de-WhatsApp-2023-05-03-a-las-14.10.47-150x150.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
